@@ -47,6 +47,9 @@ section .title{
 #apresentacao .content{
     padding-top:20px;
 }
+.borda{
+    border-radius: 20px;
+}
   .copyright {
     background-color: #222222;
     
